@@ -11,7 +11,6 @@ filterButtons.forEach(button => {
 function render(filter) {
   grid.innerHTML = ""; 
 
- 
   for (const year in data) {
     
     let yearItems = [];
@@ -46,3 +45,5 @@ function render(filter) {
     grid.innerHTML += `<div class="year-grid">${cardsHtml}</div>`;
   }
 }
+
+render("all")

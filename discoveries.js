@@ -9,31 +9,10 @@ const data = {
       }, 
 
       { 
-        "title": "Sismic Festival", 
-        "creator": "concert - La Coopérative de Mai", 
-        "note": "Toma! / Mademoiselle Lou / Asinine - un pur moment de douceur",
-        "image": "images/sismic.jpg"
-      },
-
-      {
-        "title": "Grünt Fest 4", 
-        "creator": "Paris - La Villette", 
-        "note": "Un festival de rap par un média indépendant",
-        "image": "images/grunt.jpg"
-      }, 
-
-      { 
         "title": "Mets du respect",
         "creator": "soirée - Le Lieu-Dit",
         "note": "Arch, Toothpick, GAL... une soirée rap underground incroyable",
         "image": "images/metsdurespect.jpg"
-      },
-
-      {
-        "title": "Look back", 
-        "creator": "Tatsuki Fujimoto", 
-        "note": "manga one-shot / psychologie / rebondissements",
-        "image": "images/lookback.jpg"
       },
 
       {
@@ -85,6 +64,48 @@ const data = {
         "creator": "David F. Sandberg", 
         "note": "Slasher / boucle temporelle / inspiré d'un jeu vidéo", 
         "image": "images/untildawn.jpg"
+      },
+
+      {
+        "title": "ÇA 2017", 
+        "creator": "Andy Muschietti", 
+        "note": "rewatch / horreur / adolescence",
+        "image": "images/it.webp"
+      },
+
+      {
+        "title": "Brendan et le secret de Kells",
+        "creator": "Tomm Moore", 
+        "note": "cartoon / sombre / amitié",
+        "image": "images/brendan.jpg"
+      }, 
+
+      {
+        "title": "Chainsaw Man le film : l'arc de Reze",
+        "creator": "Tatsuya Yoshihara",
+        "note": "démons / tranche de vie / relations amoureuses", 
+        "image": "images/chainsaw.jpg"
+      }, 
+
+      {
+        "title": "Mononoke le film : un fantôme sous la pluie", 
+        "creator": "Kenki Nakamura", 
+        "note" : "couleurs pastels / surnaturel / harem", 
+        "image": "images/mononoke.jpg"
+      }, 
+
+      {
+        "title": "Escape from the 21th Century", 
+        "creator": "Li Yang", 
+        "note": "à la ready player one / chinois / incroyable!!!", 
+        "image": "images/escape.jpg"
+      }, 
+
+      {
+        "title": "Arco", 
+        "creator": "Ugo Bienvenu", 
+        "note": "dessin animé / retour vers le futur / tranche de vie",
+        "image": "images/arco.webp"
       }
     ],
 
@@ -113,7 +134,7 @@ const data = {
         }, 
 
         {
-            "title": "Sid Cooper T1",
+            "title": "Sid Cooper (T1)",
             "creator": "Pendragon",
             "note": "tranche de vie / monde apocalyptique / amitié", 
             "image": "images/sidcooper.jpg"
@@ -127,7 +148,7 @@ const data = {
         },
 
         {
-            "title": "Lightfall T1-3",
+            "title": "Lightfall (T1-3)",
             "creator": "Tim Probert",
             "note": "fantasy jeunesse / aventure / amitié",
             "image": "images/lightfall.jpg"
@@ -145,7 +166,78 @@ const data = {
             "creator": "Jeremie Moreau",
             "note": "bande dessinée jeunesse / super-héros / très mignon",
             "image": "images/supera.jpg"
+        },
+
+        {
+          "title": "L'île des mythes (T1)", 
+          "creator": "Anaïs Halard & Sole Otero", 
+          "note": "magie / compétition / personnages fictifs célèbres", 
+          "image": "images/ile-mythes.jpg"
+        }, 
+
+        {
+        "title": "Look back", 
+        "creator": "Tatsuki Fujimoto", 
+        "note": "manga one-shot / psychologie / rebondissements",
+        "image": "images/lookback.jpg"
+        },
+
+        {
+          "title": "Eevi et les Esprits du Nord (T1) - Un hiver sans fin",
+          "creator": "Miila Westin", 
+          "note": "folklore / quête initiatique / découverte de l'autre",
+          "image": "images/hiver-sans-fin.jpg"
         }
+    ],
+
+    "dance": [ 
+      {
+        "title": "Création collective", 
+        "creator": "Espace des Sens, Origin's Krew, Solemay, Freeing",
+        "note": "festvial Karavel / hip hop / spectacle d'ouverture",
+        "image": "images/crea-co.jpg"
+      }
+    ],
+
+    "theater": [
+      {
+        "title": "Le parlement des colères",
+        "creator" : "Cie Les Guêpes Rouges", 
+        "note": "projet participatif / jeunesse / revendications",
+        "image": "images/parlement.webp"
+      }
+      
+    ],
+
+    "festivals": [
+      {
+        "title": "L'étrange festival Clermont-Fd",
+        "creator": "La boîte noire - Le Capitole", 
+        "note": "Escape from 21th Century", 
+        "image": "images/etrange-festival.webp"
+      },
+
+       { 
+        "title": "Sismic Festival", 
+        "creator": "concert - La Coopérative de Mai", 
+        "note": "Toma! / Mademoiselle Lou / Asinine - un pur moment de douceur",
+        "image": "images/sismic.jpg"
+      },
+
+      {
+        "title": "Grünt Fest 4", 
+        "creator": "Paris - La Villette", 
+        "note": "un festival de rap par un média indépendant",
+        "image": "images/grunt.jpg"
+      }, 
+
+      {
+        "title": "Festival Karavel - escale à Clermont-Fd", 
+        "creator": "Mourad Merzouki", 
+        "note": "specatcle d'ouverture", 
+        "image": "images/karavel.png"
+      }
+
     ]
   },
 
