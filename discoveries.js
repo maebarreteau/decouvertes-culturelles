@@ -185,8 +185,15 @@ const data = {
         {
           "title": "Eevi et les Esprits du Nord (T1) - Un hiver sans fin",
           "creator": "Miila Westin", 
-          "note": "folklore / quête initiatique / découverte de l'autre",
+          "note": "folklore / quête initiatique / bande dessinée",
           "image": "images/hiver-sans-fin.jpg"
+        }, 
+
+        {
+          "title": "Pirates en enfer", 
+          "creator": "Lucas Scholtes",
+          "note": "humour / aventure / couleurs", 
+          "image": "images/pirates-enfer.webp"
         }
     ],
 
@@ -236,6 +243,13 @@ const data = {
         "creator": "Mourad Merzouki", 
         "note": "specatcle d'ouverture", 
         "image": "images/karavel.png"
+      }, 
+
+      {
+        "title": "Festival du Carnet de Voyage", 
+        "creator": "Association IFAV - Polydôme", 
+        "note": "stand / conférence / live sketch",
+        "image": "images/cdv.jpg"
       }
 
     ]
