@@ -252,6 +252,22 @@ const data = {
         "image": "images/cdv.jpg"
       }
 
+    ],
+
+    "show": [
+      {
+        "title": "Souvenirs de Gravity Falls",
+        "creator": "Alex Hirsch", 
+        "note": "mystères / coup de coeur / famille", 
+        "image": "images/gravity-falls.jpg"
+      }, 
+
+      {
+        "title": "Scott Pilgrim prend son envol", 
+        "creator": " Bryan Lee O'Malley, BenDavid Grabinski", 
+        "note": "humour / ex maléfiques / action", 
+        "image": "images/scott-pilgrim.webp"
+      }
     ]
   },
 
