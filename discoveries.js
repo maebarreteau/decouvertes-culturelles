@@ -194,6 +194,27 @@ const data = {
           "creator": "Lucas Scholtes",
           "note": "humour / aventure / couleurs", 
           "image": "images/pirates-enfer.webp"
+        },
+
+        {
+          "title": "Draculours (T1)",
+          "creator": "Bérengère Delaporte",
+          "note": "humour / ours en peluche tout mignon / vampire",
+          "image": "images/Draculours.jpg"
+        }, 
+
+        {
+          "title": "Solo Leveling (T1-2-3)", 
+          "creator": "Chu-Gong",
+          "note": "action / surhomme / jeu vidéo",
+          "image": "images/solo-leveling-1.webp"
+        }, 
+
+        {
+          "title": "Les archives de l'étrange (T1)", 
+          "creator": "Zack Loran Clark, Nick Eliopulos",
+          "note": "mythes & légendes / enquête / enfance", 
+          "image": "images/archives-etranges.jpg"
         }
     ],
 
