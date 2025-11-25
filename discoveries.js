@@ -27,6 +27,13 @@ const data = {
         "creator": "concert - La Coopérative de Mai",
         "note": "rap doux / petite salle / contemplatif",
         "image": "images/wallace.jpg"
+      }, 
+
+      {
+        "title": "Sexe & the city",
+        "creator": "Jäde", 
+        "note": "ep / relations amoureuses / style années 2000",
+        "image": "images/sexe&city.jpg"
       }
     ],
 
@@ -122,7 +129,36 @@ const data = {
         "creator": "Jeu vidéo", 
         "note": "indépendant / folklore normand / horrifique", 
         "image": "images/carimara.jpg"
+      }, 
+
+      {
+        "title": "Camarades",
+        "creator": "Jeu de société",
+        "note": "affrontement / dés / réedition",
+        "image": "images/camardes2.webp"
+      }, 
+
+      {
+        "title": "Behind Purple", 
+        "creator": "Jeu de société",
+        "note": "coopératif / enquête / puzzle",
+        "image": "images/behind-purple.jpg"
+      }, 
+
+      {
+        "title": "Eternal Decks",
+        "creator": "Jeu de société",
+        "note": "mécanisme de deck building / coopération / réflexif",
+        "image": "images/eternal-decks2.jpg"
+      }, 
+
+      { 
+        "title": "Histoire d'un aller et retour", 
+        "creator": "Jeu de société", 
+        "note": "par chapitre / univers du Hobbit / roll & write",
+        "image": "images/histoire-aller-retour2.jpg"
       }
+
     ], 
 
     "lecture": [
