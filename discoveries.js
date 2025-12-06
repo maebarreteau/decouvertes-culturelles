@@ -113,6 +113,13 @@ const data = {
         "creator": "Ugo Bienvenu", 
         "note": "dessin animé / retour vers le futur / tranche de vie",
         "image": "images/arco.webp"
+      }, 
+
+      {
+      "title": "Tout en haut du monde", 
+      "creator": "Rémi Chayé", 
+      "note": "animation / aventure / expédition au pôle nord", 
+      "image": "images/toutenhaut.webp"
       }
     ],
 
@@ -247,10 +254,38 @@ const data = {
         }, 
 
         {
-          "title": "Les archives de l'étrange (T1)", 
+          "title": "Les archives de l'étrange (T1 - L'heure fatale)", 
           "creator": "Zack Loran Clark, Nick Eliopulos",
           "note": "mythes & légendes / enquête / enfance", 
           "image": "images/archives-etranges.jpg"
+        },
+
+        {
+          "title": "À faire peur (T1 - Terreur au camping)", 
+          "creator": "Lylian, Chabbert, Drouin, Vial",
+          "note": "petite ville / monstres / adolescents",
+          "image":"images/a-faire-peur-2.jpg"
+        }, 
+
+        {
+          "title" : "Mister Black", 
+          "creator": "Miguel Pang",
+          "note": "album illsutré / acceptation de soi / tolérance",
+          "image": "images/mister-back.jpeg"
+        },
+
+        {
+          "title": "Là où gisent les endormies", 
+          "creator": "Faridah Àbíké-Íyímídé",
+          "note": "thriller / pensionnat / secrets",
+          "image": "images/les-endormies.jpg"
+        }, 
+
+        { 
+          "title" : "La maison aux sortilèges", 
+          "creator" : "Emilia Hart", 
+          "note" : "sorcières / femmes fortes / indépendance",
+          "image" : "images/maison-sortileges.jpg"
         }
     ],
 
@@ -324,6 +359,22 @@ const data = {
         "creator": " Bryan Lee O'Malley, BenDavid Grabinski", 
         "note": "humour / ex maléfiques / action", 
         "image": "images/scott-pilgrim.webp"
+      }
+    ],
+
+    "exhibition": [
+      {
+        "Title" : "In the mood for Wong Kar Wai", 
+        "creator" : "Institut Lumière - Lyon",
+        "note" : "rétrospective / photos / Hong Kong", 
+        "image" : "images/wongkarwai.jpg"
+      },
+
+      {
+        "title": "Zombis, aux origines", 
+        "creator": "Musée des Confluences - Lyon",
+        "note": "histoire / culture populaire / mythes",
+        "image": "images/zombis.jpg"
       }
     ]
   },
