@@ -34,7 +34,7 @@ function render(filter) {
 
 
     const cardsHtml = filtered.map(item => `
-      <div class="card">
+      <div class="card" data-link="${item.link || '#'}">
         <img src="${item.image}" alt="${item.title}">
         <h3>${item.title}</h3>
         ${item.creator ? `<p class="creator">${item.creator}</p>` : ""}
@@ -47,3 +47,4 @@ function render(filter) {
 }
 
 render("all")
+

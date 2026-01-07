@@ -5,7 +5,7 @@ const data = {
         "title": "Pretty Dollcorpse",
         "creator": "FEMTOGO, Ptite Soeur & Neophron.",
         "note": "textes choquants & impactants / découpage de prod comme on a rarement vu ça",
-        "image": "images/pretty.jpg"
+        "image": "images/pretty.jpg",
       }, 
 
       { 
@@ -34,6 +34,13 @@ const data = {
         "creator": "Jäde", 
         "note": "ep / relations amoureuses / style années 2000",
         "image": "images/sexe&city.jpg"
+      },
+
+      {
+        "title": "RAPPEL",
+        "creator": "Jima",
+        "note": "hyperpop / rap / santé mentale",
+        "image": "images/rappel.jpeg"
       }
     ],
 
@@ -120,6 +127,20 @@ const data = {
       "creator": "Rémi Chayé", 
       "note": "animation / aventure / expédition au pôle nord", 
       "image": "images/toutenhaut.webp"
+      }, 
+
+      {
+        "title": "À couteaux tirés", 
+        "creator": "Rian Johnson", 
+        "note": "enquête / humour noir / presque un huis clos", 
+        "image": "images/couteaux.jpg"
+      },
+
+      {
+        "title": "Glass Onion",
+        "creator": "Rian Johnson",
+        "note": "enquête / humour noir / ambiance vacances d'été", 
+        "image": "images/onion.jpg"
       }
     ],
 
@@ -310,7 +331,14 @@ const data = {
         "title": "Le parlement des colères",
         "creator" : "Cie Les Guêpes Rouges", 
         "note": "projet participatif / jeunesse / revendications",
-        "image": "images/parlement.webp"
+        "image": "images/parlement.webp",
+      }, 
+
+      {
+        "title": "La Haine - Jusqu'ici rien n'a changé",
+        "creator": "Matthieu Kassovitz", 
+        "note": "comedie musicale / adaptation / tensions sociales",
+        "image": "images/haine.webp"
       }
       
     ],
@@ -388,10 +416,42 @@ const data = {
 
   "2026": {
     "music": [],
-    "film": [],
-    "lecture": [],
+    "film": [
+      {
+        "title": "Hilda et le roi de la montagne",
+        "creator": "Luke Pearson",
+        "note": "animation / aventure / folklore nordique",
+        "image": "images/hilda.jpg"
+        },
+      
+      {
+        "title" : "Wake Up Dead Man",
+        "creator": "Rian Johnson",
+        "note": "enquête / religion / ambiance hivernale",
+        "image": "images/wake.jpg"
+      }
+    ],
     "games": [],
-    "festivals": []
+    "lecture": [],
+    "dance": [],
+    "theater": [],
+    "festivals": [],
+    "show": [],
+    "exhibition": [
+      {
+        "title": "Willy Ronis",
+        "creator": "Hôtel Frontfreyde - Clermont-Ferrand",
+        "note": "photographie / après-guerre / vie quotidienne",
+        "image": "images/willy-ronis.jpg"
+      }, 
+
+      {
+        "title": "Johanna Mirabel",
+        "creator": "FRAC Auvergne",
+        "note": "peinture / couleurs vives / place de l'humain",
+        "image": "images/johanna-mirabel.jpg"
+      }
+    ]
   }
 }
 
