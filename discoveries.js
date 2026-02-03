@@ -399,7 +399,7 @@ const data = {
 
     "exhibition": [
       {
-        "Title" : "In the mood for Wong Kar Wai", 
+        "title" : "In the mood for Wong Kar Wai", 
         "creator" : "Institut Lumière - Lyon",
         "note" : "rétrospective / photos / Hong Kong", 
         "image" : "images/wongkarwai.jpg"
@@ -429,13 +429,36 @@ const data = {
         "creator": "Rian Johnson",
         "note": "enquête / religion / ambiance hivernale",
         "image": "images/wake.jpg"
+      },
+
+      {
+        "title": "Le monde de demain",
+        "creator": "Katell Quillévéré, Hélier Cisterne & David Elkaïm",
+        "note": "série / rap / banlieue",
+        "image": "images/ntm.jpg"
+      },
+
+      {
+        "title": "DJ Mehdi : Made in France",
+        "ceator": "Thibaut de Longeville",
+        "note": "documentaire / hommage / musique",
+        "image": "images/djmehdi.jpg"
       }
     ],
+
     "games": [],
     "lecture": [],
     "dance": [],
     "theater": [],
-    "festivals": [],
+    "festivals": [
+      {
+        "title": "Festival International du Court Métrage de Clermont-Ferrand",
+        "creator": "Sauve qui peut le court métrage",
+        "note": "sélections / découvertes / amour du cinéma",
+        "image": "images/court.webp"
+      }
+
+    ],
     "show": [],
     "exhibition": [
       {
