@@ -429,22 +429,8 @@ const data = {
         "creator": "Rian Johnson",
         "note": "enquête / religion / ambiance hivernale",
         "image": "images/wake.jpg"
-      },
-
-      {
-        "title": "Le monde de demain",
-        "creator": "Katell Quillévéré, Hélier Cisterne & David Elkaïm",
-        "note": "série / rap / banlieue",
-        "image": "images/ntm.jpg"
-      },
-
-      {
-        "title": "DJ Mehdi : Made in France",
-        "ceator": "Thibaut de Longeville",
-        "note": "documentaire / hommage / musique",
-        "image": "images/djmehdi.jpg"
       }
-    ],
+  ],
 
     "games": [],
     "lecture": [],
@@ -459,7 +445,21 @@ const data = {
       }
 
     ],
-    "show": [],
+    "show": [
+      {
+        "title": "Le monde de demain",
+        "creator": "Katell Quillévéré, Hélier Cisterne & David Elkaïm",
+        "note": "série / rap / banlieue",
+        "image": "images/ntm.jpg"
+      },
+
+      {
+        "title": "DJ Mehdi : Made in France",
+        "ceator": "Thibaut de Longeville",
+        "note": "documentaire / hommage / musique",
+        "image": "images/djmehdi.jpg"
+      }
+    ],
     "exhibition": [
       {
         "title": "Willy Ronis",
