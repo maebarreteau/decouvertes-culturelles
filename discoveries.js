@@ -455,7 +455,7 @@ const data = {
 
       {
         "title": "DJ Mehdi : Made in France",
-        "ceator": "Thibaut de Longeville",
+        "creator": "Thibaut de Longeville",
         "note": "documentaire / hommage / musique",
         "image": "images/djmehdi.jpg"
       }
