@@ -411,6 +411,8 @@ const data = {
         "note": "histoire / culture populaire / mythes",
         "image": "images/zombis.jpg"
       }
+
+      
     ]
   },
 
@@ -429,7 +431,29 @@ const data = {
         "creator": "Rian Johnson",
         "note": "enquête / religion / ambiance hivernale",
         "image": "images/wake.jpg"
+      },
+
+      {
+        "title" : "Hamnet",
+        "creator": "Chloé Zaho",
+        "note": "théâtre / amour / tragédie",
+        "image": "images/hamnet.jpg"
+      },
+
+      {
+        "title" : "Marty Supreme",
+        "creator": "Joshua Safdie",
+        "note": "tennis de table / magouille / passion",
+        "image": "images/marty.jpg"
+      },
+
+       {
+        "title" : "To be or not to be",
+        "creator": "Ernst Lubitsch — CinéFac",
+        "note": "satire / théâtre / nazime",
+        "image": "images/cinefac.webp"
       }
+
   ],
 
     "games": [],
@@ -473,7 +497,29 @@ const data = {
         "creator": "FRAC Auvergne",
         "note": "peinture / couleurs vives / place de l'humain",
         "image": "images/johanna-mirabel.jpg"
+      },
+
+      {
+        "title": "JAPON : CHEFS-D'OEUVRE DU MUSÉE GUIMET", 
+        "creator": "MARQ + GUIMET+",
+        "note": "arts asiatiques / histoire / légendes",
+        "image": "images/japon.png"
+      }, 
+
+       {
+        "title": "Le règne des images", 
+        "creator": "FRAC Auvergne + Festival Internation du Court Métrage",
+        "note": "totalitarisme / photographie / peintures / courts-métrages",
+        "image": "images/frac.jpg"
+      },
+
+       {
+        "title": "Les 31 000 femmes résistances déportées", 
+        "creator": "Musée de la Résistance, de l'Internement et de la Déportation",
+        "note": "2GM / témoignages / portraits",
+        "image": "images/resistance.jpg"
       }
+
     ]
   }
 }
