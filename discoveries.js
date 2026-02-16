@@ -448,6 +448,13 @@ const data = {
       },
 
        {
+        "title" : "Un pays qui se tient sage",
+        "creator": "David Dufresne",
+        "note": "documentaire / manifestation / répression",
+        "image": "images/pays.webp"
+      },
+
+      {
         "title" : "To be or not to be",
         "creator": "Ernst Lubitsch — CinéFac",
         "note": "satire / théâtre / nazime",
@@ -482,8 +489,15 @@ const data = {
         "creator": "Thibaut de Longeville",
         "note": "documentaire / hommage / musique",
         "image": "images/djmehdi.jpg"
+      },
+    {
+      "title": "OUSSEKINE",
+        "creator": "Antoine Chevrollier",
+        "note": "histoire vraie / violence policère / famille",
+        "image": "images/ousskine.jpg"
       }
     ],
+
     "exhibition": [
       {
         "title": "Willy Ronis",
